@@ -5,8 +5,8 @@ This is also going to be a super part-time project, so submitting issues or merg
 To get started I'm going to being a list here in the README's markdown - I'm considering adding something more interactive for sorting purposes.
 
 
-| Game                     | iOS Version | Metal HUD Supported | Date Tested | Tested By      |
-|--------------------------|-------------|---- ----------------|-------------|----------------|
-| Bright Memory: Infinite  | 18          | Yes                 | 2025-08     | applegamingse  |
-| Wuthering Waves          | 18          | Yes                 | 2025-08     | applegamingse  |
-| Subnautica               | 18          | Yes                 | 2025-08     | applegamingse  |
+| Game               | iOS Version | Metal HUD Supported | Date Tested | Tested By      |
+|--------------------|-------------|--------------------|-------------|---------------|
+| Bright Memory: Infinite | 18        | Yes                | 2025-08     | applegamingse  |
+| Wuthering Waves    | 18          | Yes                | 2025-08     | applegamingse  |
+| Subnautica         | 18          | Yes                | 2025-08     | applegamingse  |
