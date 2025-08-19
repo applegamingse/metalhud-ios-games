@@ -10,3 +10,4 @@ To get started I'm going to being a list here in the README's markdown - I'm con
 | Bright Memory: Infinite | 18        | Yes                | 2025-08     | applegamingse  |
 | Wuthering Waves    | 18          | Yes                | 2025-08     | applegamingse  |
 | Subnautica         | 18          | Yes                | 2025-08     | applegamingse  |
+| Call of Duty: Mobile         | 18          | Yes                | 2025-08     | applegamingse  |
